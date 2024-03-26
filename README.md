@@ -43,7 +43,7 @@
 
 ###
 
-<div align="left">
+<p align="left">
   <a target="_blank" href="mailto:franco.diiorio5@gmail.com" style="text-decoration:none; color:#444;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
@@ -56,6 +56,6 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
   </a>
   &emsp;
-</div>
+</p>
 
 ###
