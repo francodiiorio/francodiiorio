@@ -53,6 +53,35 @@
 </div>
 <br>
 
+
+<div id="proyectos">
+<h2 >Algunos proyectos👨🏻‍💻</h2>
+
+<table align="left" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+        <img align="center" width=100% src="https://github.com/francodiiorio/francodiiorio/blob/main/assets/cineXperience.png"   alt="cineMVC" />
+      </p>
+    <p align="center">
+      <a href="https://github.com/francodiiorio/CineMVC" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@francodiiorio" /></a>
+    </p>       
+</td>
+<td width="25%" align="center">
+    <p align="center">
+        <img align="center" width=100% src="https://github.com/francodiiorio/francodiiorio/blob/main/assets/tasksMVC.png"   alt="tasksMVC" />
+      </p>
+    <p align="center">
+      <a href="https://github.com/francodiiorio/TasksMVC" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@francodiiorio" /></a>
+    </p>       
+</td>
+  
+</tr>
+</table>
+  </div>
+
+<br>
+
 <h2>Contactame<h2/>
 
 <p align="left">
