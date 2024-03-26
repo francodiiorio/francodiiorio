@@ -1,4 +1,5 @@
-<h2 align="left">Hola 👋! Soy Franco y me dedico al desarrollo Fullstack</h2>
+<h1 align="left">Hola 👋! Soy Franco y me dedico al desarrollo Fullstack</h1>
+
 
 
 <div align="center">
@@ -7,8 +8,11 @@
 </div>
 
 
-<img align="right" height="180" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  />
 
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+
+
+<img align="right" height="180" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
@@ -36,8 +40,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="50" alt="eclipseide logo"  />
 </div>
+<br>
 
+<h2>Contactame<h2/>
 
 <p align="left">
   <a href="https://api.whatsapp.com/send?phone=+541136929405" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" alt="@unsimpledev"  /></a>
