@@ -9,7 +9,7 @@
 
 
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Tecnologías que utilizo</h2>
 
 
 <img align="right" height="180" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  />
@@ -55,7 +55,7 @@
 
 
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2 >Mira algunos de mis proyectos</h2>
 
 <table align="left" >
 <tr border="none">
@@ -82,9 +82,14 @@
 </table>
   </div>
 
-<br>
+<br><br>
+<br><br>
+<br><br>
+<br><br><br>
+<br><br><br>
 
-<h2>Contactame<h2/>
+
+<h2>Contactame con un click<h2/>
 
 <p align="left">
   <a href="https://api.whatsapp.com/send?phone=+541136929405" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" alt="@unsimpledev"  /></a>
