@@ -59,5 +59,6 @@
 <style>
   a {
     text-decoration: none;
+    color: #444;
   }
 </style>
