@@ -1,17 +1,14 @@
 <h2 align="left">Hola 👋! Soy Franco y me dedico al desarrollo Fullstack</h2>
 
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=francodiiorio&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=francodiiorio&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-###
 
 <img align="right" height="180" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  />
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
@@ -41,21 +38,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" alt="jquery logo"  />
 </div>
 
-###
 
 <p align="left">
-  <a target="_blank" href="mailto:franco.diiorio5@gmail.com" style="text-decoration:none; color:#444;">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  &emsp;
-  <a target="_blank" href="https://www.linkedin.com/in/franco-di-iorio-85190a185/" style="text-decoration:none; color:#444;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  &emsp;
-  <a target="_blank" href="https://api.whatsapp.com/send?phone=+541136929405" style="text-decoration:none; color:#444;">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
-  </a>
-  &emsp;
-</p>
+  <a href="https://api.whatsapp.com/send?phone=+541136929405" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" alt="@unsimpledev"  /></a>
+<a href="https://www.linkedin.com/in/franco-di-iorio/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="unsimpledev"/></a>
+<a href = "mailto:franco.diiorio5@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="@unsimpledev"  /></a>
+  </p>
 
-###
+
+
