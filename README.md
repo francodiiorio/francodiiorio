@@ -61,5 +61,5 @@
 <a href = "mailto:franco.diiorio5@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="@unsimpledev"  /></a>
   </p>
 
-
+<img src="https://raw.githubusercontent.com/francodiiorio/francodiiorio/output/snake.svg" alt="Snake animation" />
 
