@@ -44,15 +44,15 @@
 ###
 
 <div align="left">
-  <a href="mailto:franco.diiorio5@gmail.com" target="_blank">
+  <a target="_blank" href="mailto:franco.diiorio5@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   &emsp;
-  <a href="https://www.linkedin.com/in/franco-di-iorio-85190a185/" target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/franco-di-iorio-85190a185/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   &emsp;
-  <a href="https://api.whatsapp.com/send?phone=+541136929405" target="_blank">
+  <a target="_blank" href="https://api.whatsapp.com/send?phone=+541136929405">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
   </a>
   &emsp;
